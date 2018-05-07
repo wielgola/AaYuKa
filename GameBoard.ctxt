@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameBoard()
+comment1.params=x\ y\ tilted\ length
+comment1.target=boolean\ placeShip(int,\ int,\ boolean,\ int)
+comment2.params=x\ y\ tilt
+comment2.target=boolean\ placeShip(int,\ int,\ boolean)
+comment3.params=x\ y
+comment3.target=int\ shoot(int,\ int)
+comment4.params=
+comment4.target=void\ outputBoard()
+numComments=5
